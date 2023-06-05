@@ -1,0 +1,27 @@
+main { 
+    .banner {
+        display: flex;
+        flex-flow: row wrap;
+        scroll-padding-top: 50px;
+        padding-top: 30px;
+    }
+    .card-title {
+        color: #c96b50;
+        font-weight: lighter;
+    }
+
+    .card-text {
+        color: #859b45;
+        font-weight: lighter;
+        text-decoration-line: none;
+    }
+
+    #activities {
+        display: flex;
+        justify-content:space-between;
+        flex-wrap: wrap;
+        scroll-padding-top: 50px;
+        padding-top: 50px;
+        margin-left: 10px;
+    }     
+}

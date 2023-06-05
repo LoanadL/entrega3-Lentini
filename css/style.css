@@ -1,0 +1,178 @@
+header .logo_principal {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  order: unset;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+}
+header h5 {
+  color: #c96b50;
+  font-size: large;
+  font-weight: normal;
+}
+header #intro {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  order: unset;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+}
+
+main .banner {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 30px;
+}
+main .card-title {
+  color: #c96b50;
+  font-weight: lighter;
+}
+main .card-text {
+  color: #859b45;
+  font-weight: lighter;
+  text-decoration-line: none;
+}
+main #pages_activities {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+footer .social_media {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 50px;
+  color: #eeccaf;
+  font-size: medium;
+  font-weight: normal;
+  text-decoration-line: none;
+}
+
+main .banner {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 30px;
+}
+main .team {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  order: unset;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+  color: #eeccaf;
+  font-size: large;
+  font-weight: normal;
+}
+main .teamwork {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 20px;
+  margin-left: 30px;
+  color: #c96b50;
+  font-size: larger;
+  font-weight: normal;
+}
+main .card-title {
+  color: #c96b50;
+  font-weight: lighter;
+}
+main .card-text {
+  color: #859b45;
+  font-weight: lighter;
+  text-decoration-line: none;
+}
+main #activities {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 10px;
+}
+
+main .banner {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 30px;
+}
+main .card-title {
+  color: #c96b50;
+  font-weight: lighter;
+}
+main .card-text {
+  color: #859b45;
+  font-weight: lighter;
+  text-decoration-line: none;
+}
+main #pages_activities {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+main .banner {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 30px;
+}
+main .card-title {
+  color: #c96b50;
+  font-weight: lighter;
+}
+main .card-text {
+  color: #859b45;
+  font-weight: lighter;
+  text-decoration-line: none;
+}
+main #activities {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 10px;
+}
+
+main .banner {
+  display: flex;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 30px;
+}
+main .card-title {
+  color: #c96b50;
+  font-weight: lighter;
+}
+main #pages_activities {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  scroll-padding-top: 50px;
+  padding-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
