@@ -1,0 +1,36 @@
+body {
+    main {
+        #pages_activities {
+            display: flex;
+            justify-content:center;
+            flex-flow:row wrap;
+            scroll-padding-top: 50px;
+            padding-top: 50px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        .card-title {
+            color:  #c75c3e;
+            font-weight: lighter;
+        }
+        .card-text {
+            color: #8aa53a;
+            font-weight: lighter;
+            text-decoration-line: none;
+        } 
+    }
+    footer {
+        .social_media {
+            display: flex;
+            justify-content:center;
+            flex-flow:row wrap;
+            scroll-padding-top: 50px;
+            padding-top: 50px;
+            margin-left: 50px;
+            color: #f0ab6f;
+            font-size: medium;
+            font-weight:normal;
+            text-decoration-line: none;
+        }  
+    }
+}

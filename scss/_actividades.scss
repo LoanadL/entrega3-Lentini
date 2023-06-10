@@ -1,0 +1,12 @@
+body { 
+    main {
+        #activities {
+            display: flex;
+            justify-content:space-between;
+            flex-wrap: wrap;
+            scroll-padding-top: 50px;
+            padding-top: 50px;
+            margin-left: 10px;
+        } 
+    }
+}
