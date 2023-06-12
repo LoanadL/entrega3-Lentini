@@ -16,10 +16,15 @@ body header #intro .nav-item {
   padding-top: 50px;
   margin-left: 30px;
 }
+body header #intro .nav-item:hover {
+  transform: scale(1.05);
+  color: #c75c3e;
+  text-shadow: 0 0 10px #c75c3e;
+}
 body header #intro h1 {
   color: #c75c3e;
-  font-size: large;
-  font-weight: normal;
+  font-size: 30px;
+  font-weight: lighter;
 }
 body main .banner {
   display: flex;
